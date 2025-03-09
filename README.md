@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ayanhakeem20@gmail.com**
 
-- My CV app.rezi.ai/s/VJyJ3GqvYVarVS9c99QB
+- My CV **app.rezi.ai/s/VJyJ3GqvYVarVS9c99QB**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

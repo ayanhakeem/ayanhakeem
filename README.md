@@ -7,7 +7,7 @@
       </p>
       <ul>
         <li>👨‍💻 All of my projects are available at: <a href="[Your Portfolio URL]">My Portfolio</a></li>
-        <li>📫 How to reach me: <a href="mailto:[YourEmail@example.com]">[YourEmail@example.com]</a></li>
+        <li>📫 How to reach me: <a href="mailto:[YourEmail@example.com]">ayanhakeem20@gmail.com</a></li>
         <li>📄 Resume: <a href="[Your Resume URL]">my-cv</a></li>
       </ul>
   </tr>
@@ -15,7 +15,7 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=[YourGitHubUsername]&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ayanhakeem&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
@@ -23,10 +23,8 @@
 
 ### 💻 Programming Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-FF8C00?style=for-the-badge&logo=mathworks&logoColor=white)
 
 ### 🌐 Web Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -40,14 +38,11 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry%20pi&logoColor=white)
+
 
 ### 💪 Competitive Programming
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
@@ -63,17 +58,17 @@
 
 ## Get in Touch
 
-- **LinkedIn** : [Your LinkedIn URL]
-- **LeetCode** : [Your LeetCode Profile]
-- **CodeForces** : [Your Codeforces Profile]
-- **CodingNinjas** : [Your Code360/Naukri Profile]
-- **Email** : [Your Email]
+- **LinkedIn** : https://www.linkedin.com/in/mahmadayan-hakeem-55a1b9300
+- **LeetCode** : https://leetcode.com/u/mahmadayan/
+- **CodeForces** : https://codeforces.com/profile/mahmadayan
+- **Codolio** : https://codolio.com/profile/Mahmadayan%20hakeem
+- **Email** : ayanhakeem20@gmail.com
 
 ---
 
 ## 🌟 My Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=[YourGitHubUsername]&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=ayanhakeem&label=Profile%20views&color=0e75b6&style=flat)
 
 ### 📊 GitHub Stats:
 
@@ -81,7 +76,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourGitHubUsername]&layout=compact&theme=tokyonight&hide_border=true)
 
 ### 🚀 LeetCode Stats:
-![LeetCode Stats](https://leetcard.jacoblin.cool/[YourLeetCodeUsername]?theme=dark&font=Fira%20Code&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/
+Mahmadayan hakeem?theme=dark&font=Fira%20Code&ext=activity)
 
 ---
 

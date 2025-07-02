@@ -8,7 +8,7 @@
       <ul>
         <li>👨‍💻 All of my projects are available at: <a href="[Your Portfolio URL]">My Portfolio</a></li>
         <li>📫 How to reach me: <a href="mailto:[YourEmail@example.com]">ayanhakeem20@gmail.com</a></li>
-        <li>📄 Resume: <a href="[Your Resume URL]">my-cv</a></li>
+        <li>📄 Resume: <a href="file:///C:/Users/mahma/OneDrive/Attachments/Desktop/new.cv.pdf">my-cv</a></li>
       </ul>
   </tr>
 </table>
@@ -25,6 +25,8 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
 
 ### 🌐 Web Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -72,12 +74,11 @@
 
 ### 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourGitHubUsername]&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayanhakeem&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayanhakeem&layout=compact&theme=tokyonight&hide_border=true)
 
 ### 🚀 LeetCode Stats:
-![LeetCode Stats](https://leetcard.jacoblin.cool/
-Mahmadayan hakeem?theme=dark&font=Fira%20Code&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/mahmadayan?theme=dark&font=Hind%20Vadodara&ext=heatmap)
 
 ---
 
@@ -85,8 +86,8 @@ Mahmadayan hakeem?theme=dark&font=Fira%20Code&ext=activity)
 
 ### 🌟 Thanks for visiting my profile! Feel free to explore my repositories and connect with me!
 
-[![GitHub followers](https://img.shields.io/github/followers/[YourGitHubUsername]?style=social)](https://github.com/[YourGitHubUsername])
-[![GitHub stars](https://img.shields.io/github/stars/[YourGitHubUsername]?style=social)](https://github.com/[YourGitHubUsername])
+[![GitHub followers](https://img.shields.io/github/followers/ayanhakeem?style=social)](https://github.com/[YourGitHubUsername])
+[![GitHub stars](https://img.shields.io/github/stars/ayanhakeem?style=social)](https://github.com/[YourGitHubUsername])
 
 </div>
 

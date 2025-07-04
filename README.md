@@ -8,7 +8,7 @@
       <ul>
         <li>👨‍💻 All of my projects are available at: <a href="[Your Portfolio URL]">My Portfolio</a></li>
         <li>📫 How to reach me: <a href="mailto:[YourEmail@example.com]">ayanhakeem20@gmail.com</a></li>
-        <li>📄 Resume: <a href="file:///C:/Users/mahma/OneDrive/Attachments/Desktop/new.cv.pdf">my-cv</a></li>
+        <li>📄 Resume: <https://drive.google.com/file/d/12uApQT2D0ne6L6jMBGZuEnP_s86eTUhM/view?usp=drive_link">my-cv</a></li>
       </ul>
   </tr>
 </table>

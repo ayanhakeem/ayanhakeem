@@ -50,6 +50,10 @@
 ### 💪 Competitive Programming
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
+![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
+![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)
+![Coding Ninjas](https://img.shields.io/badge/Coding%20Ninjas-DD6620?style=for-the-badge&logo=CodingNinjas&logoColor=white)
+
 
 ---
 

@@ -59,6 +59,12 @@
 
 ## 🚀 Projects & Repositories
 
+### ![MERN Stack Based](https://img.shields.io/badge/MERN%20Stack%20Based-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
+
+| 🏷️ | 📂 Project                                                                   | 🛠️ Tech                                                       | 📝 Description                                                                                                                                                                                                                                   | 🔗 Status                                                                    |
+| --- | ---------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------- |
+| 1️⃣ | [**Tomato**](https://github.com/VishalBhat07/food-delivery-website)          | MongoDB, Express.js, React.js, Node.js, Stripe                              | 🍕 A full-stack food discovery platform inspired by Zomato, built with the MERN stack and Stripe payment gateway integration. Explore restaurants, browse menus, and read reviews with a seamless user experience.                               | [🌐 Live Website](https://food-delivery-website-frontend-tr6k.onrender.com/) |
+
 <!-- Replace or fill in your actual projects here like in the original -->
 
 ---

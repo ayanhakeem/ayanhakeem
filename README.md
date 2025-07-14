@@ -61,7 +61,10 @@
 
 ### ![Web Development](https://img.shields.io/badge/Web%20Development-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-| 1️⃣ | [**Stopwatch**](https://github.com/ayanhakeem/stop-watch) | HTML, CSS, JavaScript | ⏱️ A sleek and minimal stopwatch web app built using vanilla JavaScript. Start, stop, and reset time with a clean UI — perfect for timing activities or tracking productivity. | [🌐 Live Website](https://stop-watch-y1ig.onrender.com/) |
+| 🏷️  | 📂 Project                                                        | 📝 Description                                                                                                                                             | 🔗 Status                                                       |
+| --- | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| 1️⃣  | [**Stopwatch**](https://github.com/ayanhakeem/stop-watch)        | ⏱️ A sleek and minimal stopwatch web app built using vanilla JavaScript. Start, stop, and reset time with a clean UI — perfect for timing activities.      | [🌐 Live Website](https://stop-watch-y1ig.onrender.com/)        |
+
 
 
 ### ![MERN Stack Based](https://img.shields.io/badge/MERN%20Stack%20Based-3C873A?style=for-the-badge&logo=node.js&logoColor=white)

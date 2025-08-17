@@ -73,9 +73,11 @@
 
 ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-| 🏷️ | 📂 Project                                                                 | 🛠️ Tech                                | 📝 Description                                                                                                                                                                                                                   | 🔗 Status                                           |
-| --- | -------------------------------------------------------------------------- | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
-| 3️⃣ | [**CryptoPlace**](https://github.com/ayanhakeem/cryptoplace)               | React.js, Node.js, CoinGecko API       | 💰 A cryptocurrency tracking dashboard providing real-time market data, price charts, and insights powered by the CoinGecko API. Designed with a clean UI for crypto enthusiasts to explore and monitor digital assets effectively. | [🌐 Live Website](https://cryptoplace.onrender.com/) |
+| 🏷️ | 📂 Project                                                                 | 🛠️ Tech                          | 📝 Description                                                                                                                                             | 🔗 Status                                           |
+| --- | -------------------------------------------------------------------------- | -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| 3️⃣ | [**CryptoPlace**](https://github.com/ayanhakeem/cryptoplace)               | React.js, CoinGecko API, Google Charts | 💰 Developed a cryptocurrency tracker using React.js, CoinGecko API, and Google Charts.<br>📊 Displays live data for 7,000+ coins with price trends and search functionality. | [🌐 Live Website](https://crypto-react-oswg.onrender.com/) |
+
+
 
 
 

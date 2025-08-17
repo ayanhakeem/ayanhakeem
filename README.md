@@ -71,6 +71,14 @@
 | 1️⃣  | [**Stopwatch**](https://github.com/ayanhakeem/stop-watch)        | ⏱️ A sleek and minimal stopwatch web app built using vanilla JavaScript. Start, stop, and reset time with a clean UI — perfect for timing activities.      | [🌐 Live Website](https://stop-watch-y1ig.onrender.com/)        |
 
 
+![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+| 🏷️ | 📂 Project                                                                 | 🛠️ Tech                                | 📝 Description                                                                                                                                                                                                                   | 🔗 Status                                           |
+| --- | -------------------------------------------------------------------------- | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| 3️⃣ | [**CryptoPlace**](https://github.com/ayanhakeem/cryptoplace)               | React.js, Node.js, CoinGecko API       | 💰 A cryptocurrency tracking dashboard providing real-time market data, price charts, and insights powered by the CoinGecko API. Designed with a clean UI for crypto enthusiasts to explore and monitor digital assets effectively. | [🌐 Live Website](https://cryptoplace.onrender.com/) |
+
+
+
 
 ### ![MERN Stack Based](https://img.shields.io/badge/MERN%20Stack%20Based-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
 

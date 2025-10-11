@@ -8,7 +8,7 @@
       <ul>
         <li>👨‍💻 All of my projects are available at: <a href="https://www.gradai.in/portfolio/ayanhakeem20">My Portfolio</a></li>
         <li>📫 How to reach me: <a href="mailto:[YourEmail@example.com]">ayanhakeem20@gmail.com</a></li>
-        <li>📄 Resume: <a href="https://drive.google.com/file/d/1qQ6aJuya8WnZMm-_ti5phAH8eXZbojI9/view?usp=sharing">my-cv</a></li>
+        <li>📄 Resume: <a href="https://drive.google.com/file/d/13syYGG2d_HQSN6LFWFtAb_mr4KMUmWsU/view?usp=sharing">my-cv</a></li>
       </ul>
   </tr>
 </table>

@@ -6,7 +6,7 @@
         Hey there! I'm Mahmadayan Hakeem and this is a comprehensive collection of my software development projects, organized by technology stack and development status.
       </p>
       <ul>
-        <li>👨‍💻 All of my projects are available at: <a href="https://www.gradai.in/portfolio/ayanhakeem20">My Portfolio</a></li>
+        <li>👨‍💻 All of my projects are available at: <a href="https://portfolio-murex-ten-rx7ub3aohc.vercel.app/">My Portfolio</a></li>
         <li>📫 How to reach me: <a href="mailto:[YourEmail@example.com]">ayanhakeem20@gmail.com</a></li>
        <li>
   📄 Resume: 

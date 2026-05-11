@@ -10,7 +10,7 @@
         <li>📫 How to reach me: <a href="mailto:[YourEmail@example.com]">ayanhakeem20@gmail.com</a></li>
        <li>
   📄 Resume: 
-  <a href="https://drive.google.com/file/d/1WK3b4Q9yidFxgS0ixoVUzo3KFOeUAOk-/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1TpiaeIHlrzWk283nL35d2Cd-ZVXLRKWO/view?usp=sharing">
     View My Resume
   </a>
 </li>
